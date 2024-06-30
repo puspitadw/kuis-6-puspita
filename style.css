@@ -1,0 +1,11 @@
+figure img{
+    width: 20%;
+}
+figure{
+    display: inline-block;
+    margin: 15px;
+    text-align: center;
+}
+figcaption{
+    margin-top: 10px;
+}
